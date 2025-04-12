@@ -4,6 +4,7 @@ A funny ugly logo I hand-drew
 
 
 **An Adventure RPG fantasy Minecraft Server with most of the commonly seen features**
+
 **The aim is to use Minecraft as a game engine and completely transform the game with no client side downloads**
 
 *Note: All of this is made by [Sujan Naik](https://github.com/Sujan-Naik), please do not use it on your own Server, it is public as a learning material for developers and to showcase on my portfolio*
