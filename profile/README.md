@@ -1,4 +1,8 @@
 # SonorousMinecraft *currently in development*
+A funny ugly logo I hand-drew
+![Sonorous](https://github.com/user-attachments/assets/f2d6c649-718e-4eab-9a92-f7ac2aa5a19d)
+
+
 **An Adventure RPG fantasy Minecraft Server with most of the commonly seen features**
 **The aim is to use Minecraft as a game engine and completely transform the game with no client side downloads**
 
